@@ -1,5 +1,9 @@
 fileFormatVersion: 2
-guid: de282cf6fc7d07e429c6f406bcbc4015
+<<<<<<<< HEAD:KiddieCollecter/Assets/ImageTrackingResources/TrackedImages/newimage.jpg.meta
+guid: 86a11bde74b25294484459ab8e9fa21e
+========
+guid: 4a3d90a6ed6dee4448611ae27e14195b
+>>>>>>>> parent of 8fe8300 (IT WORKS!!):KiddieCollecter/Assets/ImageTrackingResources/TrackedImages/7.jpg.meta
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}

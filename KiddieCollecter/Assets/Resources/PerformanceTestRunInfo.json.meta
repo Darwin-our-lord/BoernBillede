@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: e115a5853ef34ed4397782e8ffd8b55d
+=======
+guid: 374b43103ed7d8a4ab52d190b906bd37
+>>>>>>> parent of 8fe8300 (IT WORKS!!)
 TextScriptImporter:
   externalObjects: {}
   userData: 
