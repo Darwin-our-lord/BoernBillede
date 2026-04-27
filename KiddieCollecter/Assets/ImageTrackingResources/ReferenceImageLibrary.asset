@@ -18,22 +18,22 @@ MonoBehaviour:
     m_Storage: []
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 5723296602773133822
-      m_GuidHigh: 3688991252336052156
+      m_GuidLow: 4999422459775126345
+      m_GuidHigh: 6594798634976694676
     m_SerializedTextureGuid:
       m_GuidLow: 568857070483811574
       m_GuidHigh: 1531431389062546985
-    m_Size: {x: 0.075, y: 0.1}
+    m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: imgimage
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 4770129015631574847
-      m_GuidHigh: 193204454875542714
+      m_GuidLow: 5730998908391448597
+      m_GuidHigh: 4741255988364879020
     m_SerializedTextureGuid:
-      m_GuidLow: 2635919631715080362
-      m_GuidHigh: 6572905534023277833
+      m_GuidLow: 5950509317774973918
+      m_GuidHigh: 2207502202473890888
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: IMG_1915
+    m_Name: newimage
     m_Texture: {fileID: 0}
