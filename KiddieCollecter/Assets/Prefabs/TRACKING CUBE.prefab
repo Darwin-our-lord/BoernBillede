@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 3179432450896411414}
   - component: {fileID: 185547212888776443}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: TRACKING CUBE
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
