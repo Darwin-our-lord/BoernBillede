@@ -46,7 +46,7 @@ MonoBehaviour:
     m_Size: {x: 5.25, y: 7}
     m_SpecifySize: 1
     m_Name: barn1
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 13b597578679ff44cb36d577e7364999, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 4683920434316882308
       m_GuidHigh: 10629437090178782378
@@ -56,7 +56,7 @@ MonoBehaviour:
     m_Size: {x: 0.112500004, y: 0.15}
     m_SpecifySize: 1
     m_Name: barn 4
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: ee64e2f386352514a828836bd6ea3103, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5125052297252208680
       m_GuidHigh: 5621309023419781005
@@ -66,7 +66,7 @@ MonoBehaviour:
     m_Size: {x: 0.0975, y: 0.13}
     m_SpecifySize: 1
     m_Name: barn 3
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 2e6a701a553311b48951ff468a5d1c8d, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5248791502628455339
       m_GuidHigh: 9557169803622588592
@@ -75,8 +75,8 @@ MonoBehaviour:
       m_GuidHigh: 10780039582677244712
     m_Size: {x: 0.112500004, y: 0.15}
     m_SpecifySize: 1
-    m_Name: 
-    m_Texture: {fileID: 0}
+    m_Name: barn 2
+    m_Texture: {fileID: 2800000, guid: 71b07db6d5ac29b4289b20a6e2649a95, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5022478089199216974
       m_GuidHigh: 5456414909578668218
@@ -86,4 +86,4 @@ MonoBehaviour:
     m_Size: {x: 0.45000002, y: 0.6}
     m_SpecifySize: 1
     m_Name: barn 5
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 22eed4d14ce016e48ba94ea070fbbe50, type: 3}
